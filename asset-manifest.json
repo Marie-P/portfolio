@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.99f8e367.css",
-    "main.js": "/static/js/main.6da9373d.js",
+    "main.js": "/static/js/main.9c760f9c.js",
     "static/js/206.4f170d69.chunk.js": "/static/js/206.4f170d69.chunk.js",
+    "static/media/logo_MP.png": "/static/media/logo_MP.8e69d8ec64f59e119ea0.png",
     "static/media/load.gif": "/static/media/load.90672f1deffccbcdf4f1.gif",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.99f8e367.css",
-    "static/js/main.6da9373d.js"
+    "static/js/main.9c760f9c.js"
   ]
 }
