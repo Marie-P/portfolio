@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a18756b7.css",
-    "main.js": "/static/js/main.07265d0a.js",
+    "main.css": "/static/css/main.58cdee43.css",
+    "main.js": "/static/js/main.0a7bdbd1.js",
     "static/js/206.4f170d69.chunk.js": "/static/js/206.4f170d69.chunk.js",
     "static/media/load_icone.gif": "/static/media/load_icone.375abaabfff2081fed76.gif",
     "static/media/logo_MP.png": "/static/media/logo_MP.8e69d8ec64f59e119ea0.png",
@@ -9,7 +9,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.a18756b7.css",
-    "static/js/main.07265d0a.js"
+    "static/css/main.58cdee43.css",
+    "static/js/main.0a7bdbd1.js"
   ]
 }
